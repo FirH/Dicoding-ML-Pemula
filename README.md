@@ -1,1 +1,2 @@
-# Repository ini dibuat untuk memenuhi penugasan Proyek Akhir : Klasifikasi Gambar dari kelas "Belajar Machine Learning Untuk Pemula" dari Dicoding
+# Image Classification Project
+Repository ini dibuat untuk memenuhi penugasan Proyek Akhir dari kelas "Belajar Machine Learning Untuk Pemula" Dicoding
